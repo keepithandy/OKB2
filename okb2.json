@@ -1,7 +1,17 @@
 {
   "name": "OkayBuddy",
   "symbol": "OKB2",
-  "description": "OkayBuddy (OKB2) — community token.",
-  "image": "https://raw.githubusercontent.com/keepithandy/OKB2/main/OKB2.png"
+  "description": "OkayBuddy (OKB2) on Solana.",
+  "image": "https://raw.githubusercontent.com/keepithandy/OKB2/main/OKB2.png",
+  "external_url": "https://github.com/keepithandy/OKB2",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/keepithandy/OKB2/main/OKB2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
-
